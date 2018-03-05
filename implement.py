@@ -1,4 +1,4 @@
-from Bus import Bus
+from bus import Bus
 
 
 def subscriber(data=None, **kwargs):
