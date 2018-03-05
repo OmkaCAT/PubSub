@@ -11,4 +11,3 @@ class Bus:
 
     def subscribe(self, nameRoom, data):
         self.rooms[nameRoom].add(data)
-
